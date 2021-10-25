@@ -1818,21 +1818,6 @@ input, select, textarea {
 	background-color: black;
 }
 
-
-.carousel-inner>.active {
-  height: 500px; //this can be whatever you want
-  object-fit: cover;
-}
-
-.carousel .item img {
-   left: -9999px;  /*important */
-   right: -9999px;  /*important */
-   margin: 0 auto;  /*important */
-   max-width: none;  /*important */
-   min-width: 100%;
-   position: absolute;
-}
-
 #contentDiv {
 	width: 40rem;
 	max-width: 100%;
